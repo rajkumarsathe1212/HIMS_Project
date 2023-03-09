@@ -49,7 +49,6 @@ export class TitlesComponent implements OnInit{
     //   })
     // }
 
-
     Swal.fire({
       title:"Sure to delete",
       text: "Once deleted, you will not be able to recover this imaginary file!",
